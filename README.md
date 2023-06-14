@@ -35,12 +35,12 @@ Add a button in the anime details screen that will remove it from favorites.
 
 ### Medium
 
-Advanced styling. Extend the tailwind theme, do some gradient, use Svelte Animation, show what You know and have fun. 
+Advanced styling. Extend the tailwind theme, do some gradient, use Svelte Animation, show what You know and have fun.
 
 ### Medium
 
 For the "Add to favorites" form action, add validation on the server side using the Zod library.  
-Make it that there is no type assertion ("as") anywhere. 
+Make it that there is no type assertion ("as") anywhere.
 
 ### Medium
 
@@ -59,3 +59,5 @@ Create a table to store and load favorites from there.
 ### Senior Full Stack
 
 Created a working backend using Go or NodeJS (preferably GO :D) and PostgreSQL / MySQL. Add setup for the docker deployment.
+
+### ventureful
