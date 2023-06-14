@@ -18,8 +18,8 @@ This API has a rate limiter, so sometimes there might be some errors.
 
 ## Tasks
 
-Fork this repo, create a new branch and start working there.  
-After finish, create a Pull Request from Your branch to Your Fork and invite me.  
+Copy this repo (don't fork it!), create a new branch on your github and start working there.  
+After finish, create a Pull Request from Your branch to Your Main and invite me.  
 This way i will be able to see all the changes, and my repo will be clean for the next candidate :).
 
 Choose which tasks You would like to tackle. Do as much as You feel comfortable :)
@@ -58,4 +58,4 @@ Create a table to store and load favorites from there.
 
 ### Senior Full Stack
 
-Created a working backend using Go and PostgreSQL / MySQL. Add setup for the docker deployment.
+Created a working backend using Go or NodeJS (preferably GO :D) and PostgreSQL / MySQL. Add setup for the docker deployment.
